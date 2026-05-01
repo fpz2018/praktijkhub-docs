@@ -1,0 +1,15 @@
+# OS-rommel
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor-tijdelijk
+.vscode/
+.idea/
+*.swp
+*~
+*.bak
+
+# Lokale notities die niet gedeeld moeten worden
+*.local.md
+notities-prive/
